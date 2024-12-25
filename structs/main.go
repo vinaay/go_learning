@@ -3,29 +3,25 @@ package main
 import "fmt"
 
 func main() {
-	type Node struct {
-		value int
-		next  *Node
-	}
-	
-	type LinkedList struct {
-		head *Node
-	}
-	
-	func (l *LinkedList) Insert(value int) {
-		newNode := &Node{value: value}
-		if l.head == nil {
-			l.head = newNode
-		} else {
-			current := l.head
-			for current.next != nil {
-				current = current.next
-			}
-			current.next = newNode
-		}
-	}
-	
-}
 
-// to execute us below command
-// go run main.go
+	// declare a struct
+	type Person struct {
+		name string
+		age  int
+	}
+
+	// assign value to struct while creating an instance
+	person1 := Person{"John", 25}
+	fmt.Println(person1)
+
+	// define an instance
+	var person2 Person
+
+	// assign value to struct variables
+	person2 = Person{
+		name: "Sara",
+		age:  29,
+	}
+
+	fmt.Println(person2)
+}

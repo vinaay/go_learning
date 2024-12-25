@@ -1,5 +1,4 @@
-# Learn go toghther
-
+# Learn toghther
 Made this repo to help people start learning go programming with some hands on programming. 
 
 # Installation follow below steps
@@ -11,20 +10,24 @@ Please fork the repo and creat the pull request
 
 
 # Start with 
-
 To execute go program use below command 
 >go run main.go
 
 
-- Arrays
-- Slices
-- maps
-- structs 
+#Topics covered 
 
+```
+arrays
+error
+function
+loop
+maps
+slices
+structs
+switch```
 
 
 ## Go Featurs
-
 [Gee](https://geektutu.com/post/gee.html) is a [gin](https://github.com/gin-gonic/gin)-like framework
 
 - Concurrency support
