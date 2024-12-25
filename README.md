@@ -14,7 +14,7 @@ To execute go program use below command
 >go run main.go
 
 
-#Topics covered 
+# Topics covered 
 
 ```
 arrays
@@ -24,7 +24,8 @@ loop
 maps
 slices
 structs
-switch```
+switch
+```
 
 
 ## Go Featurs
