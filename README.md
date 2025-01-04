@@ -1,9 +1,8 @@
-# Learn toghther
+# Go Programming
 Made this repo to help people start learning go programming with some hands on programming. 
 
 # Installation follow below steps
 Go Installation steps https://go.dev/doc/install
-
 
 # To Contribute
 Please fork the repo and creat the pull request 
