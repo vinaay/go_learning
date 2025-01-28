@@ -12,3 +12,4 @@ func main() {
 
 // to execute us below command
 // go run main.go
+// [1 2 3]
