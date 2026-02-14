@@ -28,6 +28,7 @@ slices
 structs
 switch
 while
+conditions
 ```
 
 ## Go Featurs
