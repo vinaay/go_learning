@@ -27,6 +27,7 @@ maps
 slices
 structs
 switch
+while
 conditions
 ```
 
