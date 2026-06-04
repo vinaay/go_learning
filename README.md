@@ -9,6 +9,7 @@ Go Installation steps https://go.dev/doc/install
 # To Contribute
 
 Please fork the repo and creat the pull request
+added the new comment
 
 # Start with
 
