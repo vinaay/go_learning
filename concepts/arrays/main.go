@@ -15,5 +15,5 @@ func main() {
 // 	Zero-based indexing.
 
 // to execute us below command
-// go run main.go
-// test
+go run main.go
+test
